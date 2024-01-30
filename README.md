@@ -1,0 +1,2 @@
+# wordpressCDN
+eligou.com
